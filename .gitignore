@@ -1,0 +1,11 @@
+.terraform
+terraform.tfstate.backup
+.DS_Store
+terraform.tfstate.*.backup
+environment
+enviroment
+bkps
+pending.tfplan
+*.tfvars
+varfile
+terraform.tfstate
